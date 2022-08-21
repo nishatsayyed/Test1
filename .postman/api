@@ -1,0 +1,14 @@
+id = 12ce07f9-30b0-4249-8e1c-dc5fbc745344
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"f1262ec7-9b16-41b5-9a88-12d045a3cab6","path":"Linking Git_896503-f1262ec7-9b16-41b5-9a88-12d045a3cab6.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+
+[relations.apiDefinition.metaData]
