@@ -4,10 +4,7 @@ id = 12ce07f9-30b0-4249-8e1c-dc5fbc745344
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"f1262ec7-9b16-41b5-9a88-12d045a3cab6","path":"Linking Git_896503-f1262ec7-9b16-41b5-9a88-12d045a3cab6.json","metaData":{}}
-files[] = {"id":"74eb17d6-a802-4903-aed4-e44e5799bc8d","path":"Linking Git 2_896503-74eb17d6-a802-4903-aed4-e44e5799bc8d.json","metaData":{}}
-files[] = {"id":"4bbee486-c69c-4a0e-b5a0-3b9821125438","path":"Linking Git 2_896503-4bbee486-c69c-4a0e-b5a0-3b9821125438.json","metaData":{}}
-files[] = {"id":"f50d924d-fb81-4094-8299-0c3f70ed715d","path":"Linking Git 2_896503-f50d924d-fb81-4094-8299-0c3f70ed715d.json","metaData":{}}
+files[] = {"id":"21ee1405-8790-4968-892b-f827dd3adb81","path":"New Collection 1_896503-21ee1405-8790-4968-892b-f827dd3adb81.json","metaData":{}}
 
 [relations.collections.metaData]
 
@@ -15,3 +12,4 @@ files[] = {"id":"f50d924d-fb81-4094-8299-0c3f70ed715d","path":"Linking Git 2_896
 rootDirectory = postman/schemas
 
 [relations.apiDefinition.metaData]
+type = openapi:3

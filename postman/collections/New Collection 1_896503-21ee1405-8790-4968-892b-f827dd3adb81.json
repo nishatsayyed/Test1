@@ -1,0 +1,67 @@
+{
+	"info": {
+		"_postman_id": "21ee1405-8790-4968-892b-f827dd3adb81",
+		"name": "New Collection 1",
+		"description": "Hello hello hello",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "896503-21ee1405-8790-4968-892b-f827dd3adb81"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "5d7294c2-9c19-4064-b4b6-8e034a961901",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "google.com",
+					"host": [
+						"google",
+						"com"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "apikey",
+		"apikey": [
+			{
+				"key": "value",
+				"value": "header",
+				"type": "string"
+			},
+			{
+				"key": "key",
+				"value": "header",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "311723d3-3eb1-4388-b31c-8c51967e3690",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "f201adfd-92fb-4c86-a1bb-fff6aa95ed4f",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
